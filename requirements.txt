@@ -1,0 +1,4 @@
+#For use with pip on libraries with breaking changes
+scikit-learn==0.20
+seaborn==0.9
+#EOF
